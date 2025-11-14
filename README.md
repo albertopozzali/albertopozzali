@@ -1,7 +1,7 @@
 <h1 align="center">👋 Ciao, sono Alberto!</h1>
 
 <p align="center">
-  <b>Studente appassionato di programmazione</b><br>
+  <b>Studente dell'Istituto tecnico industriale Benedetto Castelli</b><br>
   💻 Linguaggi che sto studiando:
 </p>
 
@@ -13,17 +13,3 @@
   <!-- Badge C++ -->
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 </p>
-
----
-
-### 🚀 Qualcos'altro su di me
-- 🧠 Mi piace imparare nuove cose
-- 🔧 Smanetto con codice e piccoli progetti
-- 😄 Sempre curioso
-
----
-
-<p align="center">
-  ⭐️ Se ti va lascia una star ai miei repo!
-</p>
-
